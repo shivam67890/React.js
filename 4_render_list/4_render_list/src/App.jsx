@@ -1,7 +1,9 @@
 import Fruits from './fruits.jsx'
 import Clickme from './clickme.jsx'
 import Unstate from './usestate.hooks.jsx'
-function App() {
+import Ontimes from './ontime.jsx';
+import Color from './color.jsx';
+function App() {  
 
   return (<>
   
@@ -13,6 +15,9 @@ function App() {
     '<br />
     '<br />
     '<br />
+    <Ontimes/>
+    <br />
+    <Color/>
     </>
   );
 }

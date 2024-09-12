@@ -1,3 +1,4 @@
+// Usestates,,onstate..
 // const [stateVariable, setStateFunction] = useState(initialValue);
 /*stateVariable: Holds the current value of the state.
 setStateFunction: A function used to update the state.
